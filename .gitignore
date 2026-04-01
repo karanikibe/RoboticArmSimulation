@@ -1,0 +1,16 @@
+# Unity generated folders
+FinalRobotArm/Library/
+FinalRobotArm/Temp/
+FinalRobotArm/Logs/
+FinalRobotArm/Build/
+FinalRobotArm/Builds/
+FinalRobotArm/UserSettings/
+FinalRobotArm/.vs/
+FinalRobotArm/obj/
+
+# Unity meta files (keep these)
+# *.meta
+
+# OS files
+.DS_Store
+Thumbs.db
